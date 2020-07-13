@@ -1,0 +1,15 @@
+{
+    "name": "nsharma01/package-demo",
+    "description": "package demo",
+    "type": "library",
+    "authors": [
+        {
+            "name": "nsharma01",
+            "email": "nsharma01@xento.com"
+        }
+    ],
+    "require": {},
+	"autoload":{
+"psr-4":{"PackageDemo\\" : "src/" }
+}
+}
